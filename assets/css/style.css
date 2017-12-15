@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+header {
+    position: relative;
+    top: 30px;
+    z-index: 2;
+}
+
+.container{
+	padding-bottom: 50px;  
+}
+
+#dataInicio{
+	width: auto;
+	display: inline
+}
+#dataFim{
+	width: auto;
+	display: inline
+}
+#curve_chart{
+	height: 500px;
+	width: 900px;
+}
+#footer{
+	margin-top: 50px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+	background-color: #ffff00;
+	text-align: center;
+}
